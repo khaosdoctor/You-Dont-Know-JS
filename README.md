@@ -47,7 +47,7 @@ If you'd like to contribute financially towards the effort (or any of my other O
 
 ### Generating the EPUB model
 
-Since the author does not accept PRs on generating EPUB or any readable content, this repository is only meant to gather the existent books and organize them into ebooks in the EPUB format.
+Since the author does not accept PRs on generating EPUB or any readable content, this repository is only meant to gather the existent books and organize them into ebooks in the EPUB format. **All the content and the credits goes to Kyle Simpson for the book**, I was just the guy who got the public content here and generated an EPUB.
 
 In order to do so, you'll need [pandoc](https://pandoc.org/installing.html). Once installed make sure it is available through your shell and run the `generate-epubs.sh` file in the root folder.
 
