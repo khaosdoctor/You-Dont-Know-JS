@@ -17,5 +17,5 @@ If I had this *You Don’t Know JS* series of books at the start of my career, m
 
 I would say that the vast majority of web developers probably have never built a JavaScript object and just treat the language as event-binding glue between buttons and AJAX requests. I was in that camp at a point in my career, but after I learned how to master prototypes and create objects in JavaScript, a world of possibilities opened up for me. If you fall into the category of just creating event-binding glue code, this book is a must-read; if you just need a refresher, this book will be a go-to resource for you. Either way, you will not be disappointed. Trust me!
 
-Nick Berardi<br>
-[nickberardi.com](http://nickberardi.com), [@nberardi](http://twitter.com/nberardi)
+Nick Berardi<br/>
+[nickberardi.com](http://nickberardi.com), [nberardi on Twitter](http://twitter.com/nberardi)

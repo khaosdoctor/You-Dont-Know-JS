@@ -11,7 +11,7 @@ Over the last couple years, I've witnessed Kyle's tireless efforts to familiariz
 
 This book is about shaking up your sense of understanding by exposing you to the new and unknown. The intention is to evolve your knowledge in step with your tools by bestowing you with new capabilities. It exists to give you the confidence to fully embrace the next major era of JavaScript programming.
 
-Rick Waldron<br>
-[@rwaldron](http://twitter.com/rwaldron)<br>
-Open Web Engineer at Bocoup<br>
+Rick Waldron<br/>
+[@rwaldron](http://twitter.com/rwaldron)<br/>
+Open Web Engineer at Bocoup<br/>
 Ecma/TC39 Representative for jQuery

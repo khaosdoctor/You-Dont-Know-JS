@@ -15,6 +15,6 @@ I'm not disparaging JavaScript toolkit use; after all, I'm a member of the MooTo
 
 Enjoy Types and Grammar and don't let it get too far away from your desk!
 
-David Walsh<br>
-[http://davidwalsh.name](http://davidwalsh.name), [@davidwalshblog](http://twitter.com/davidwalshblog)<br>
+David Walsh<br/>
+[http://davidwalsh.name](http://davidwalsh.name), [@davidwalshblog](http://twitter.com/davidwalshblog)<br/>
 Senior Web Developer, Mozilla
