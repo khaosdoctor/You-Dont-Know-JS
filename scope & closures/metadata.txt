@@ -1,2 +1,0 @@
-% You Don't Know JS: Scope & Closures
-% Kyle Simpson
