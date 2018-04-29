@@ -1,5 +1,18 @@
 # You Don't Know JS (book series)
 
+<!-- TOC -->
+
+- [You Don't Know JS (book series)](#you-dont-know-js-book-series)
+  - [Titles](#titles)
+  - [Publishing](#publishing)
+    - [Generating the EPUB model](#generating-the-epub-model)
+  - [In-person Training](#in-person-training)
+  - [Online Video Training](#online-video-training)
+  - [Contributions](#contributions)
+  - [License & Copyright](#license--copyright)
+
+<!-- /TOC -->
+
 This is a series of books diving deep into the core mechanisms of the JavaScript language. The first edition of the series is now complete.
 
 <a href="http://www.ebooks.com/1993212/you-don-t-know-js-up-going/simpson-kyle/"><img src="up %26 going/cover.jpg" width="75"></a>&nbsp;
@@ -31,6 +44,16 @@ If you like the content you find here, and want to support more content like it,
 If you'd like to contribute financially towards the effort (or any of my other OSS work) aside from purchasing the books, I do have a [patreon](https://www.patreon.com/getify) that I would always appreciate your generosity towards.
 
 <a href="https://www.patreon.com/getify">[![patreon.png](https://s13.postimg.org/k9nkc5thz/become_a_patron_button.png)](https://www.patreon.com/getify)</a>
+
+### Generating the EPUB model
+
+Since the author does not accept PRs on generating EPUB or any readable content, this repository is only meant to gather the existent books and organize them into ebooks in the EPUB format.
+
+In order to do so, you'll need [pandoc](https://pandoc.org/installing.html). Once installed make sure it is available through your shell and run the `generate-epubs.sh` file in the root folder.
+
+If you wish to know more about how I got this idea and how I did it, look at [this tutorial](https://puppet.com/blog/how-we-automated-our-ebook-builds-pandoc-and-kindlegen).
+
+> Mobi files for Kindle are not included here
 
 ## In-person Training
 
